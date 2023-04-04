@@ -6,8 +6,9 @@
 ## resumo
 
 - ferraentas online:
-    - [ ] http://www.jsnice.org/
-    - [ ] https://beautifier.io/
+    - [/] http://www.jsnice.org/
+    - [/] https://beautifier.io/
+    - [/] https://deobfuscate.io/
 
 - situação:
     - [ ] codígo falha se desofuscar, estourando a memoria do browser
