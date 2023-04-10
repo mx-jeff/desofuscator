@@ -25,3 +25,4 @@
 
 - sources:
     - https://www.perimeterx.com/tech-blog/2022/defeating-javascript-obfuscation/
+    - https://stackoverflow.com/questions/37216841/how-to-defeat-deobfuscation-of-obfuscated-javascript-code
