@@ -12,6 +12,8 @@
 
 - situação:
     - [ ] codígo falha se desofuscar, estourando a memoria do browser
+    - [ ] codigo limpo até "clean_part_mki"
+    - [ ] tentar desofuscar depois do clean part
 
 - hipósetes:
     - [ ] criptografia
@@ -19,7 +21,7 @@
 
 - possíveis soluções
     - [ ] ver código em runtime
-    - [ ] testar tecnicas de desofuscação
+    - [/] testar tecnicas de desofuscação
 
 - sources:
     - https://www.perimeterx.com/tech-blog/2022/defeating-javascript-obfuscation/
