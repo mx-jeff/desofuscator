@@ -9,6 +9,8 @@
     - [/] http://www.jsnice.org/
     - [/] https://beautifier.io/
     - [/] https://deobfuscate.io/
+    - [/] https://lelinhtinh.github.io/de4js/
+    - [/] http://deobfuscatejavascript.com/#
 
 - situação:
     - [ ] codígo falha se desofuscar, estourando a memoria do browser
